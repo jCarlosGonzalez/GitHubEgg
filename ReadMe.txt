@@ -19,3 +19,4 @@
 
  ls     --> permite ver los archivos de una carpeta
 
+rm -rf .git --> eliminar el git init
