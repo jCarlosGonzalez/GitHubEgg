@@ -33,8 +33,10 @@ Para transferir cambios preparados al repositorio local
 ```ssh
 	git commit -m "Transfering to the local repository"
 ```
-subimos al repositorio
+Para cargar el contenido del repositorio local a un repositorio remoto
 ```ssh
+	git push <remote> <branch>
+	
 	git push origin master
 ```
 
