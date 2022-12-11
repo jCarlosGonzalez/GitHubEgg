@@ -1,6 +1,6 @@
 ## Configuración Básica
 
-Configurar Nombre que salen en los commits
+Configurar Nombre/Indentidad
 ```ssh
 	git config --global user.name "your_name"
 ```
