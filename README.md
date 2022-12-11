@@ -8,7 +8,7 @@ Configurar Email
 ```ssh	
 	git config --global user.email your_email_address@gmail.com
 ```
-Para mostrar todas las propiedades que Git tiene configurado
+Mostrar todas las propiedades que Git tiene configurado
 ```ssh
 	git config --list
 ```
