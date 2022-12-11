@@ -8,9 +8,9 @@ Configurar Email
 ```ssh	
 	git config --global user.email your_email_address@gmail.com
 ```
-Marco de colores para los comando
+Para mostrar todas las propiedades que Git tiene configurado
 ```ssh
-	git config --global color.ui true
+	git config --list
 ```
 
 ## Iniciando repositorio
