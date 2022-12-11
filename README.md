@@ -1,35 +1,35 @@
 ## Configuración Básica
 
-Configurar Nombre que salen en los commits
+Configurar Nombre/Indentidad
 ```ssh
-	git config --global user.name "dasdo"
+	git config --global user.name "your_name"
 ```
 Configurar Email
 ```ssh	
-	git config --global user.email dasdo1@gmail.com
+	git config --global user.email your_email_address@gmail.com
 ```
-Marco de colores para los comando
+Mostrar todas las propiedades que Git tiene configurado
 ```ssh
-	git config --global color.ui true
+	git config --list
 ```
 
 ## Iniciando repositorio
 
-Iniciamos GIT en la carpeta donde esta el proyecto
+Para crear un repositorio local 
 ```ssh
 	git init
 ```
-Clonamos el repositorio de github o bitbucket
+Para clonar un repositorio de github o bitbucket
 ```ssh
 	git clone <url>
 ```
-Añadimos todos los archivos para el commit
+Para transferir todos los ARCHIVOS al staging area
 ```ssh
 	git add .
 ```
-Hacemos el primer commit
+Para transferir cambios preparados al repositorio local
 ```ssh
-	git commit -m "Texto que identifique por que se hizo el commit"
+	git commit -m "Transfering to the local repository"
 ```
 subimos al repositorio
 ```ssh
