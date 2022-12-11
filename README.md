@@ -15,7 +15,7 @@ Para mostrar todas las propiedades que Git tiene configurado
 
 ## Iniciando repositorio
 
-Iniciamos GIT en la carpeta donde esta el proyecto
+Para crear un repositorio local 
 ```ssh
 	git init
 ```
