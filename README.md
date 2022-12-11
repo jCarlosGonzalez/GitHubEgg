@@ -6,7 +6,7 @@ Configurar Nombre que salen en los commits
 ```
 Configurar Email
 ```ssh	
-	git config --global user.email dasdo1@gmail.com
+	git config --global user.email your_email_address@gmail.com
 ```
 Marco de colores para los comando
 ```ssh
