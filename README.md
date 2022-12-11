@@ -2,7 +2,7 @@
 
 Configurar Nombre que salen en los commits
 ```ssh
-	git config --global user.name "YourName"
+	git config --global user.name "your_name"
 ```
 Configurar Email
 ```ssh	
