@@ -15,6 +15,8 @@ Mostrar todas las propiedades que Git tiene configurado
 
 ## Iniciando repositorio
 
+![alt text](https://github.com/jCarlosGonzalez/GitHubEgg/blob/master/git_Image/gitWorkFlow_1.png)
+
 Para crear un repositorio local 
 ```ssh
 	git init
