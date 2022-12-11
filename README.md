@@ -13,7 +13,7 @@ Mostrar todas las propiedades que Git tiene configurado
 	git config --list
 ```
 
-## Iniciando repositorio
+## Ciclo Basico de Trabajo en Git
 
 ![alt text](https://github.com/jCarlosGonzalez/GitHubEgg/blob/master/git_Image/gitWorkFlow_1.png)
 
@@ -39,6 +39,8 @@ Para cargar el contenido del repositorio local a un repositorio remoto
 	
 	git push origin master
 ```
+
+![alt text](https://github.com/jCarlosGonzalez/GitHubEgg/blob/master/git_Image/gitWorkFlow_2.png)
 
 ## GIT CLONE
 
