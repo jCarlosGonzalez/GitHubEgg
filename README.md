@@ -19,7 +19,7 @@ Para crear un repositorio local
 ```ssh
 	git init
 ```
-Clonamos el repositorio de github o bitbucket
+Para clonar un repositorio de github o bitbucket
 ```ssh
 	git clone <url>
 ```
