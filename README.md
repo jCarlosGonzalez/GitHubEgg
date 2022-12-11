@@ -27,9 +27,9 @@ Para transferir todos los ARCHIVOS al staging area
 ```ssh
 	git add .
 ```
-Hacemos el primer commit
+Para transferir cambios preparados al repositorio local
 ```ssh
-	git commit -m "Texto que identifique por que se hizo el commit"
+	git commit -m "Transfering to the local repository"
 ```
 subimos al repositorio
 ```ssh
