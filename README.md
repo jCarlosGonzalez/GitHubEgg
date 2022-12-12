@@ -25,7 +25,7 @@ Para clonar un repositorio de github o bitbucket
 ```ssh
 	git clone <url>
 ```
-Para transferir todos los ARCHIVOS al staging area
+Para transferir todos los ARCHIVOS al Ataging Area
 ```ssh
 	git add .
 ```
