@@ -13,7 +13,9 @@ Mostrar todas las propiedades que Git tiene configurado
 	git config --list
 ```
 
-## Iniciando repositorio
+## Ciclo Basico de Trabajo en Git
+
+![alt text](https://github.com/jCarlosGonzalez/GitHubEgg/blob/master/git_Image/gitWorkFlow_1.png)
 
 Para crear un repositorio local 
 ```ssh
@@ -23,7 +25,7 @@ Para clonar un repositorio de github o bitbucket
 ```ssh
 	git clone <url>
 ```
-Para transferir todos los ARCHIVOS al staging area
+Para transferir todos los ARCHIVOS al Ataging Area
 ```ssh
 	git add .
 ```
@@ -31,10 +33,14 @@ Para transferir cambios preparados al repositorio local
 ```ssh
 	git commit -m "Transfering to the local repository"
 ```
-subimos al repositorio
+Para cargar el contenido del repositorio local a un repositorio remoto
 ```ssh
+	git push <remote> <branch>
+	
 	git push origin master
 ```
+
+![alt text](https://github.com/jCarlosGonzalez/GitHubEgg/blob/master/git_Image/gitWorkFlow_2.png)
 
 ## GIT CLONE
 
