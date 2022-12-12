@@ -17,6 +17,13 @@ Mostrar todas las propiedades que Git tiene configurado
 
 ![alt text](https://github.com/jCarlosGonzalez/GitHubEgg/blob/master/git_Image/gitWorkFlow_1.png)
 
+`Working directory` es una copia de una versión del proyecto. Estos archivos se sacan de la base de datos comprimida en el directorio de git y se colocan en el disco para que los puedas usar o modificar.
+
+`Staging area` es un área que almacena información acerca de lo que va a ir en tu próxima confirmación ( `commit` ). A veces se le denomina índice ( `index` ).
+
+`Repository (.git directory)`
+En el repository se almacenan los metadatos y la base de datos de los objetos para tu proyecto. Es la parte más importante de git (carpeta .git) y es lo que se copia cuando clonas un repositorio desde otra computadora
+
 Para crear un repositorio local 
 ```ssh
 	git init
@@ -42,8 +49,8 @@ Para cargar el contenido del repositorio local a un repositorio remoto
 
 ![alt text](https://github.com/jCarlosGonzalez/GitHubEgg/blob/master/git_Image/gitWorkFlow_2.png)
 
-## GIT CLONE
 
+## GIT CLONE
 
 Clonamos el repositorio de github o bitbucket
 ```ssh
