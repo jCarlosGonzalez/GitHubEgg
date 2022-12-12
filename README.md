@@ -47,7 +47,7 @@ Para cargar el contenido del repositorio local a un repositorio remoto
 	git push origin master
 ```
 
-![alt text](https://github.com/jCarlosGonzalez/GitHubEgg/blob/master/git_Image/gitWorkFlow_2.png)
+![alt text](https://github.com/jCarlosGonzalez/GitHubEgg/blob/master/git_Image/gitWorkFlow_3.png)
 
 
 ## GIT CLONE
